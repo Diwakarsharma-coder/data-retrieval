@@ -1,0 +1,92 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.cont{
+    border: 2px solid wheat;
+    width: 450px;
+    margin: 20px auto;
+    background-color: rgb(167, 235, 235);
+    
+}
+h6{
+    font-size: 30px;
+    margin: 2px auto;
+    text-align: center;
+    font-family: serif;
+}
+
+#form1{
+    /* border: 2px solid pink; */
+    margin: 3px 4px;
+    padding: 3px 5px;
+    /* background-color: blanchedalmond; */
+    height:auto;
+    box-sizing: border-box;
+    clear: both;
+    
+}
+
+.lab{
+    height: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 25px;
+}
+.txt{
+    float: right;
+    /* margin: 2px; */
+    margin-right: 20px;
+    height: 23px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 1px 5px;    
+    outline: none;
+    font-size: large;
+    padding: 3px;
+}
+.but{
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-top: 25px;
+    outline: none;
+    margin-bottom: 20px;   
+}
+#login
+{
+    font-size: 20px;
+    /* border: 1px solid pink; */
+    /* color: greenyellow; */
+    /* background-color: blue; */
+    width: 100px;
+    border-radius: 105px;
+    border: none;
+    box-shadow: 5px 2px 15px;    
+    /* outline: aquamarine; */
+    
+}
+#login:hover
+{
+    background-color:rgb(85, 230, 97);
+    color: white;
+    outline: none;
+}
+#signup
+{   
+    font-size: 20px;
+    /* border: 1px solid pink; */
+    /* color: blue; */
+    /* background-color:greenyellow; */
+    width: 100px;
+    border: none;
+    border-radius: 105px;
+    box-shadow: 5px 2px 15px;    
+    /* outline: none; */
+}
+#signup:hover
+{
+    background-color:rgb(236, 81, 210);
+    color: white;
+    outline: none;
+}
